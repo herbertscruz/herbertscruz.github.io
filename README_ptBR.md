@@ -1,0 +1,3 @@
+## Bem vindo a minha pagina
+
+Sou Herberts e sou especialista em arquitetura de soluções em nuvem. Adoro estudar e compartilhar tudo o que sei sobre tecnologia, pois acredito que o conhecimento só faz sentido se for compartilhado. Não tenho medo de enfrentar desafios, pois me fazem crescer. Gosto de pessoas, só estou aqui pelo feedback delas, seja na posição de líder ou liderado, aprendo muito com elas.
