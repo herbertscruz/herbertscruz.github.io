@@ -13,8 +13,8 @@ Sou Herberts e sou especialista em arquitetura de soluções em nuvem. Adoro est
 
 ## Fale comigo
 
-- https://www.linkedin.com/in/herbertscruz
-- herbertscruz@gmail.com
+- [https://www.linkedin.com/in/herbertscruz](https://www.linkedin.com/in/herbertscruz)
+- [herbertscruz@gmail.com](mailto:herbertscruz@gmail.com)
 
 ## Soft Skills
 
@@ -47,7 +47,6 @@ Prometheus; Alert Manager; Grafana; Jaeger; Sentry; ELK; Google Analytics; Googl
 ## Educação
 
 - UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT<br />Concluído em Abril/2016
-
 - FIAP/SP – SOLUTIONS ARCHITECTURE<br />Será concluído em Setembro/2022
 
 ## Relevante

@@ -13,9 +13,8 @@ I'm Herberts and I'm an expert in cloud solutions architecture. I love to study 
 
 ## Contact me
 
-https://www.linkedin.com/in/herbertscruz
-
-herbertscruz@gmail.com 
+- [https://www.linkedin.com/in/herbertscruz](https://www.linkedin.com/in/herbertscruz)
+- [herbertscruz@gmail.com](mailto:herbertscruz@gmail.com)
 
 ## Soft Skills
 
@@ -47,11 +46,8 @@ Prometheus; Alert Manager; Grafana; Jaeger; Sentry; ELK; Google Analytics; Googl
 
 ## Education
 
-UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT
-Completed in Abril/2016
-
-FIAP/SP – SOLUTIONS ARCHITECTURE
-Will be completed in September/2022
+- UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT<br />Completed in Abril/2016
+- FIAP/SP – SOLUTIONS ARCHITECTURE<br />Will be completed in September/2022
 
 ## Relevant
 
