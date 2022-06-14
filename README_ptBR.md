@@ -1,6 +1,6 @@
 # Um pouco sobre mim
 
-**Select the language:**
+**Selecione o idioma:**
 
 [<img src="en.png" width="30" alt="English"/>](README.md)&nbsp;&nbsp;
 [<img src="ptBR.png" width="30" alt="Portuguese"/>](README_ptBR.md)
@@ -11,11 +11,10 @@
 
 Sou Herberts e sou especialista em arquitetura de soluções em nuvem. Adoro estudar e compartilhar tudo o que sei sobre tecnologia, pois acredito que o conhecimento só faz sentido se for compartilhado. Não tenho medo de enfrentar desafios, pois me fazem crescer. Gosto de pessoas, só estou aqui pelo feedback delas, seja na posição de líder ou liderado, aprendo muito com elas.
 
-## Contact me
+## Fale comigo
 
-https://www.linkedin.com/in/herbertscruz
-
-herbertscruz@gmail.com
+- https://www.linkedin.com/in/herbertscruz
+- herbertscruz@gmail.com
 
 ## Soft Skills
 
@@ -45,14 +44,12 @@ Shell Script; AWS; Heroku; Jenkins; Gitlab CI; TravisCI; Vercel; Drone CI; Codes
 
 Prometheus; Alert Manager; Grafana; Jaeger; Sentry; ELK; Google Analytics; Google Tag Manager; Amplitude; Hotjar; MailChimp; Mandrill; SendinBlue; SendGrid; Social Media APIs; WSO2; Istio; JMeter; K6; Notion; Confluence; Jira; Draw.io; Miro; Archimate.
 
-## Education
+## Educação
 
-UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT
-Concluído em Abril/2016
+- UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT<br />Concluído em Abril/2016
 
-FIAP/SP – SOLUTIONS ARCHITECTURE
-Será concluído em Setembro/2022
+- FIAP/SP – SOLUTIONS ARCHITECTURE<br />Será concluído em Setembro/2022
 
-## Relevant
+## Relevante
 
 Consigo gerenciar bem meu tempo, registrando e priorizando minhas tarefas, focando no que é mais importante e essencial. Costumo ser preciso ou ter uma margem pequena de erro em minhas estimativas. Sou hábil em me comunicar com público técnico ou não, pratico a escuta ativa, transmitindo informação com objetividade e persuasão. Sou disciplinado, por isso o trabalho remoto é natural para mim desde 2019. Acredito ser fundamental compartilhar conhecimento, nas últimas experiências, por exemplo, tive a oportunidade de ministrar Dojos, Palestras, Workshops e Treinamentos. Sou um líder facilitador, que atua com coach e mentor, que favorece a colaboração e ouve seus liderados nas decisões, pois percebo que a equipe é mais eficiente quando tem ownership e pode aplicá-lo numa atmosfera colaborativa e auto-gerenciável. Recebi bons feedbacks de excelentes profissionais que identificaram em mim estas habilidades que citei.
