@@ -46,8 +46,8 @@ Prometheus; Alert Manager; Grafana; Jaeger; Sentry; ELK; Google Analytics; Googl
 
 ## Education
 
-- UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT<br />Completed in Abril/2016
 - FIAP/SP – SOLUTIONS ARCHITECTURE<br />Will be completed in September/2022
+- UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT<br />Completed in Abril/2016
 
 ## Relevant
 
