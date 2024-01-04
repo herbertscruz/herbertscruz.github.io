@@ -42,7 +42,7 @@ Shell Script; AWS; Heroku; Jenkins; Gitlab CI; TravisCI; Vercel; Drone CI; Codes
 
 ### Dev Tools
 
-Prometheus; Alert Manager; Grafana; Jaeger; Sentry; ELK; Google Analytics; Google Tag Manager; Amplitude; Hotjar; MailChimp; Mandrill; SendinBlue; SendGrid; Social Media APIs; WSO2; Istio; JMeter; K6; Notion; Confluence; Jira; Draw.io; Miro; Archimate.
+Keycloak; KrakenD; Kogito; Prometheus; Alert Manager; Grafana; Jaeger; Sentry; ELK; Google Analytics; Google Tag Manager; Amplitude; Hotjar; MailChimp; Mandrill; SendinBlue; SendGrid; Social Media APIs; WSO2; Istio; JMeter; K6; Notion; Confluence; Jira; Draw.io; Miro; Archimate.
 
 ## Educação
 
