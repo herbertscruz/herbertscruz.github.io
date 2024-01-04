@@ -46,7 +46,7 @@ Keycloak; KrakenD; Kogito; Prometheus; Alert Manager; Grafana; Jaeger; Sentry; E
 
 ## Educação
 
-- FIAP/SP – SOLUTIONS ARCHITECTURE<br />Será concluído em Setembro/2022
+- FIAP/SP – SOLUTIONS ARCHITECTURE<br />Concluído em Setembro/2022
 - UNEB/DF – ANALYSIS AND SYSTEMS DEVELOPMENT<br />Concluído em Abril/2016
 
 ## Relevante
