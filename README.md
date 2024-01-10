@@ -30,7 +30,7 @@ HTML; CSS; SASS; LESS; SCSS; Stylus; Bootstrap; SemanticUI; Bulma; Buefy; Vuetif
 
 ### Backend Developer
 
-JDK 5+; JSF; JSP; Primefaces; J2EE; JTA; EJB; JMS; JPA; Hibernate; MicroProfile; Vertx; Spring Boot; Sprint Cloud; Spring Batch; Quarkus; SwaggerUI; OpenAPI; JUnit 4+; Mockito; Cucumber; Testcontainers; iReport; AWT; Swing; JavaFX; Flyway; EhCache; Maven; Checkstyle; NodeJS; ExpressJS; Loopback 2+; NestJS; Jest; Mocha; Chai; Supertest; Elasticsearch; Sequelize; TypeORM; BluebirdJS; Lodash; Underscore; Firebase; NVM; YARN; NPM; PHP 5.6; PHP 7+; Zend Framework 1+; Apigility; Symfony 1+; Laravel 5.4+; Doctrine; Propel; Eloquent ORM; PHPUnit; PSR; Composer.
+Golang; JDK 5+; JSF; JSP; Primefaces; J2EE; JTA; EJB; JMS; JPA; Hibernate; MicroProfile; Vertx; Spring Boot; Sprint Cloud; Spring Batch; Quarkus; SwaggerUI; OpenAPI; JUnit 4+; Mockito; Cucumber; Testcontainers; iReport; AWT; Swing; JavaFX; Flyway; EhCache; Maven; Checkstyle; NodeJS; ExpressJS; Loopback 2+; NestJS; Jest; Mocha; Chai; Supertest; Elasticsearch; Sequelize; TypeORM; BluebirdJS; Lodash; Underscore; Firebase; NVM; YARN; NPM; PHP 5.6; PHP 7+; Zend Framework 1+; Apigility; Symfony 1+; Laravel 5.4+; Doctrine; Propel; Eloquent ORM; PHPUnit; PSR; Composer.
 
 ### Data Science
 
